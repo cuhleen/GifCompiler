@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0cRo9QcsxQnwzecjQnmtTqqbOCpQdwDBXu1P3AHUcOUfCFNn1XtZnZM3A+DPpyP9kditSUm/jTQGQvFBtCnUYg==",
+  "success": true,
+  "projectFilePath": "E:\\003 Unity\\z altele\\GifCompiler\\GifCompiler\\GifCompiler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaming1\\.nuget\\packages\\animatedgif\\1.0.5\\animatedgif.1.0.5.nupkg.sha512",
+    "C:\\Users\\Gaming1\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Gaming1\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Gaming1\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
